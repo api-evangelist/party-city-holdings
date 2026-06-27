@@ -17,7 +17,7 @@ apis: []
 common:
   - type: Website
     url: https://www.partycity.com
-  - type: CorporateWebsite
+  - type: Website
     url: https://www.party-city-holdings.com
 maintainers:
   - FN: Kin Lane
