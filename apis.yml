@@ -24,6 +24,10 @@ description: >-
 tags:
   - Retail
   - Party Supplies
+  - E-Commerce
+tags_raw:
+  - Retail
+  - Party Supplies
   - E-commerce
 apis: []
 common:
